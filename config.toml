@@ -1,4 +1,0 @@
-baseURL = "https://spacime.github.io/public"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
