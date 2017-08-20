@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spacime.github.io/post/test/</loc>
+    <loc>https://spacime.github.io/blog/2017-08-18-test/</loc>
     <lastmod>2017-08-18T15:27:29-07:00</lastmod>
   </url>
   
@@ -13,13 +13,13 @@
   </url>
   
   <url>
-    <loc>https://spacime.github.io/</loc>
+    <loc>https://spacime.github.io/post/</loc>
     <lastmod>2017-08-18T15:27:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/post/</loc>
+    <loc>https://spacime.github.io/</loc>
     <lastmod>2017-08-18T15:27:29-07:00</lastmod>
     <priority>0</priority>
   </url>

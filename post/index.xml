@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Shizhou Liu&#39;s Homepage</title>
     <link>https://spacime.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Shizhou Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Aug 2017 15:27:29 -0700</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://spacime.github.io/post/test/</link>
+      <link>https://spacime.github.io/blog/2017-08-18-test/</link>
       <pubDate>Fri, 18 Aug 2017 15:27:29 -0700</pubDate>
       
-      <guid>https://spacime.github.io/post/test/</guid>
+      <guid>https://spacime.github.io/blog/2017-08-18-test/</guid>
       <description>inportant is it possible</description>
     </item>
     
