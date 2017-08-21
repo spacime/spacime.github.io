@@ -17,13 +17,13 @@
       <pubDate>Fri, 18 Aug 2017 15:27:29 -0700</pubDate>
       
       <guid>https://spacime.github.io/blog/2017-08-18-how-to-build-website-with-hugo-on-github-pages/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 
 &lt;p&gt;Static website generators are very famous in programmer. It is easy and cool to build site with these tools.&lt;/p&gt;
 
-&lt;h2 id=&#34;subtitle&#34;&gt;subtitle&lt;/h2&gt;
+&lt;h5 id=&#34;subtitle&#34;&gt;subtitle&lt;/h5&gt;
 
-&lt;h1 id=&#34;install&#34;&gt;Install&lt;/h1&gt;
+&lt;h3 id=&#34;install&#34;&gt;Install&lt;/h3&gt;
 
 &lt;p&gt;Generally it is not possible to install the upto data software with&lt;/p&gt;</description>
     </item>
