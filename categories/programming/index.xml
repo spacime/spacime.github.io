@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Shizhou Liu&#39;s Homepage</title>
-    <link>https://spacime.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Shizhou Liu&#39;s Homepage</description>
+    <title>Programming on Shizhou Liu&#39;s Homepage</title>
+    <link>https://spacime.github.io/categories/programming/</link>
+    <description>Recent content in Programming on Shizhou Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Aug 2017 15:27:29 -0700</lastBuildDate>
     
-	<atom:link href="https://spacime.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spacime.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
