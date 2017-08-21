@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spacime.github.io/about/</loc>
-    <lastmod>2017-08-18T15:27:29-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://spacime.github.io/blog/2017-08-18-how-to-build-website-with-hugo-on-github-pages/</loc>
     <lastmod>2017-08-18T15:27:29-07:00</lastmod>
   </url>
