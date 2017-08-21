@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>How to build website with Hugo on Github pages on Shizhou Liu&#39;s Homepage</title>
+    <title>Shizhou Liu&#39;s Homepage</title>
     <link>https://spacime.github.io/about/</link>
-    <description>Recent content in How to build website with Hugo on Github pages on Shizhou Liu&#39;s Homepage</description>
+    <description>Recent content on Shizhou Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 15:27:29 -0700</lastBuildDate>
     
 	<atom:link href="https://spacime.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
