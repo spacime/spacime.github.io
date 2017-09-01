@@ -21,11 +21,9 @@
 
 &lt;p&gt;Static website generators are very famous in programmer. It is easy and cool to build site with these tools.&lt;/p&gt;
 
-&lt;h5 id=&#34;subtitle&#34;&gt;subtitle&lt;/h5&gt;
-
 &lt;h3 id=&#34;install&#34;&gt;Install&lt;/h3&gt;
 
-&lt;p&gt;Generally it is not possible to install the upto data software with&lt;/p&gt;</description>
+&lt;p&gt;Generally it is not possible to install the latest version with &lt;code&gt;sudo apt-get install hugo&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
