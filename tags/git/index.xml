@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Shizhou Liu&#39;s Homepage</title>
+    <link>https://spacime.github.io/tags/git/</link>
+    <description>Recent content in Git on Shizhou Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 14:34:55 -0700</lastBuildDate>
+    
+	<atom:link href="https://spacime.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Tutorial</title>
+      <link>https://spacime.github.io/blog/2017-09-01-git-tutorial/</link>
+      <pubDate>Fri, 01 Sep 2017 14:34:55 -0700</pubDate>
+      
+      <guid>https://spacime.github.io/blog/2017-09-01-git-tutorial/</guid>
+      <description> Introduction Frequently using commands </description>
+    </item>
+    
+  </channel>
+</rss>

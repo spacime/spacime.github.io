@@ -6,10 +6,19 @@
     <description>Recent content in Tutorial on Shizhou Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 14:25:28 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 14:34:55 -0700</lastBuildDate>
     
 	<atom:link href="https://spacime.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git Tutorial</title>
+      <link>https://spacime.github.io/blog/2017-09-01-git-tutorial/</link>
+      <pubDate>Fri, 01 Sep 2017 14:34:55 -0700</pubDate>
+      
+      <guid>https://spacime.github.io/blog/2017-09-01-git-tutorial/</guid>
+      <description> Introduction Frequently using commands </description>
+    </item>
     
     <item>
       <title>SVN Tutorial</title>
