@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shizhou&#39;s Blog</title>
-    <link>https://spacime.github.io/</link>
+    <link>/</link>
     <description>Recent content on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Aug 2018 23:50:42 -0700</lastBuildDate>
     
-	<atom:link href="https://spacime.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Search</title>
-      <link>https://spacime.github.io/search/</link>
+      <link>/search/</link>
       <pubDate>Sun, 05 Aug 2018 23:50:42 -0700</pubDate>
       
-      <guid>https://spacime.github.io/search/</guid>
+      <guid>/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://spacime.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 05 Aug 2018 17:38:31 -0700</pubDate>
       
-      <guid>https://spacime.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Career I am a software engineer at Netease Game North America. I get my bachelor degree at Xidian University, China.
 Sport I pursue a beautiful body. My favorite is soccer.</description>
     </item>
     
     <item>
       <title>Build homepage with Hugo and Github</title>
-      <link>https://spacime.github.io/blog/2018-08-05-build-homepage-with-hugo-and-github/</link>
+      <link>/blog/2018-08-05-build-homepage-with-hugo-and-github/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>https://spacime.github.io/blog/2018-08-05-build-homepage-with-hugo-and-github/</guid>
+      <guid>/blog/2018-08-05-build-homepage-with-hugo-and-github/</guid>
       <description>Why Homepage? I have build website lots of times, but I did&amp;rsquo;t insist on it.</description>
     </item>
     
     <item>
       <title>Git Usage</title>
-      <link>https://spacime.github.io/blog/2018-08-05-git-usage/</link>
+      <link>/blog/2018-08-05-git-usage/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>https://spacime.github.io/blog/2018-08-05-git-usage/</guid>
+      <guid>/blog/2018-08-05-git-usage/</guid>
       <description>SourceTree SourceTree is a very good tool. It provides an interface for diff and merge in git. It is also eazy to show the branch in the game.
 Basic command I have to understand the basic command so that when we click the button, we could know what happend behand it.</description>
     </item>

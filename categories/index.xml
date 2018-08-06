@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shizhou&#39;s Blog</title>
-    <link>https://spacime.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://spacime.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Technical</title>
-      <link>https://spacime.github.io/categories/technical/</link>
+      <link>/categories/technical/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>https://spacime.github.io/categories/technical/</guid>
+      <guid>/categories/technical/</guid>
       <description></description>
     </item>
     

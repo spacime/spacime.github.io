@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spacime.github.io/search/</loc>
+    <loc>/search/</loc>
     <lastmod>2018-08-05T23:50:42-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-08-05T17:38:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/blog/2018-08-05-build-homepage-with-hugo-and-github/</loc>
+    <loc>/blog/2018-08-05-build-homepage-with-hugo-and-github/</loc>
     <lastmod>2018-08-05T16:38:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/blog/2018-08-05-git-usage/</loc>
+    <loc>/blog/2018-08-05-git-usage/</loc>
     <lastmod>2018-08-05T16:38:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-08-05T16:38:31-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2018-08-05T23:50:42-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://spacime.github.io/categories/technical/</loc>
+    <loc>/categories/technical/</loc>
     <lastmod>2018-08-05T16:38:31-07:00</lastmod>
     <priority>0</priority>
   </url>
