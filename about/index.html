@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link rel="stylesheet" href="/css/search.css" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   
@@ -108,24 +109,19 @@
 
 
 
-
-
-<div class="aa-input-container" id="aa-input-container">
 <form>
-    <fieldset role="search">
-    <input type="text" id="aa-search-input" class="search" placeholder="Search..." name="search" autocomplete="off" />
-    </fieldset>
-
+  <fieldset role="search">
+  	<input id="search" class="search" type="text" name="q" results="0" placeholder="Search" autocomplete="off"/>
     
-    
+  </fieldset>
 </form>
-</div>
-<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/algoliasearch.min.js"></script>
-<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/autocomplete.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.30.0/algoliasearch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.30.0/autocomplete.min.js"></script>
 <script>
 var client = algoliasearch("SVVDIJBES5", "01506fdf926c513ed5debf8e94f25d57");
 var index = client.initIndex('homepage');
-autocomplete('#aa-search-input',
+autocomplete('#search',
 { hint: false}, {
     source: autocomplete.sources.hits(index, {hitsPerPage: 8}),
     displayKey: 'name',
@@ -138,6 +134,7 @@ autocomplete('#aa-search-input',
     }
 });
 </script>
+
 
 
 </nav>
