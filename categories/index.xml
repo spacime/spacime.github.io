@@ -10,5 +10,14 @@
 	<atom:link href="https://spacime.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Technical</title>
+      <link>https://spacime.github.io/categories/technical/</link>
+      <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
+      
+      <guid>https://spacime.github.io/categories/technical/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

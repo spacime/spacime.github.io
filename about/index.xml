@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Shizhou&#39;s Blog</title>
+    <link>https://spacime.github.io/about/</link>
+    <description>Recent content in About me on Shizhou&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2018 17:38:31 -0700</lastBuildDate>
+    
+	<atom:link href="https://spacime.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://spacime.github.io/about/</link>
+      <pubDate>Sun, 05 Aug 2018 17:38:31 -0700</pubDate>
+      
+      <guid>https://spacime.github.io/about/</guid>
+      <description>SourceTree SourceTree is a very good tool. It provides an interface for diff and merge in git. It is also eazy to show the branch in the game.
+Basic command I have to understand the basic command so that when we click the button, we could know what happend behand it.</description>
+    </item>
+    
+  </channel>
+</rss>
