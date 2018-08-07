@@ -142,7 +142,7 @@ autocomplete('#aa-search-input',
     templates: {
         suggestion: function(suggestion) {
             console.log(suggestion);
-            return '<span>' + '<a href="https://spacime.github.io' + suggestion.permalink + '">' +
+            return '<span>' + '<a href="/post/' + suggestion.slug + '">' +
             suggestion._highlightResult.title.value + '</a></span>';
         }
     }

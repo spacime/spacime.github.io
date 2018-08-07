@@ -141,7 +141,7 @@ autocomplete('#aa-search-input',
     templates: {
         suggestion: function(suggestion) {
             console.log(suggestion);
-            return '<span>' + '<a href="https://spacime.github.io' + suggestion.permalink + '">' +
+            return '<span>' + '<a href="/post/' + suggestion.slug + '">' +
             suggestion._highlightResult.title.value + '</a></span>';
         }
     }
@@ -210,6 +210,24 @@ autocomplete('#aa-search-input',
 
     
   </p>
+  
+    
+      <div id="disqus_thread"></div>
+<script>
+
+
+
+
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://https-spacime-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
   
 </footer>
 

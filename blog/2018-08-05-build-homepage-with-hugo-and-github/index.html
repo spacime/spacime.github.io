@@ -139,7 +139,7 @@ autocomplete('#aa-search-input',
     templates: {
         suggestion: function(suggestion) {
             console.log(suggestion);
-            return '<span>' + '<a href="https://spacime.github.io' + suggestion.permalink + '">' +
+            return '<span>' + '<a href="/post/' + suggestion.slug + '">' +
             suggestion._highlightResult.title.value + '</a></span>';
         }
     }
@@ -169,7 +169,7 @@ autocomplete('#aa-search-input',
 <header>
     <p class="meta">Aug 5, 2018
          - 1 minute read 
-        
+         - <a href="/blog/2018-08-05-build-homepage-with-hugo-and-github/#disqus_thread">Comments</a>
 
         
     </p>
@@ -223,6 +223,24 @@ autocomplete('#aa-search-input',
 
     
   </p>
+  
+    
+      <div id="disqus_thread"></div>
+<script>
+
+
+
+
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://https-spacime-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
   
 </footer>
 
