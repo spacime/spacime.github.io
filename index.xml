@@ -6,10 +6,20 @@
     <description>Recent content on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 17:38:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 21:39:55 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KBEngine and Unity</title>
+      <link>/blog/2018-08-07-kbengine-and-unity/</link>
+      <pubDate>Tue, 07 Aug 2018 21:39:55 -0700</pubDate>
+      
+      <guid>/blog/2018-08-07-kbengine-and-unity/</guid>
+      <description>KBEngine This is a server engine. The most import concept is that each player is seen as a entity. The entity is splict into three parts: client, cell and base. The data could be transferred between these three part.
+Unity Unity is a client engine.</description>
+    </item>
     
     <item>
       <title>About me</title>
