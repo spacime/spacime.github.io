@@ -13,11 +13,12 @@
     
     <item>
       <title>Add Search to Hugo</title>
-      <link>/2018/08/add-search-to-hugo/</link>
+      <link>/blog/2018-08-07-add-search-to-hugo/</link>
       <pubDate>Tue, 07 Aug 2018 22:46:14 -0700</pubDate>
       
-      <guid>/2018/08/add-search-to-hugo/</guid>
-      <description>Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.</description>
+      <guid>/blog/2018-08-07-add-search-to-hugo/</guid>
+      <description> Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.
+print &amp;quot;hello&amp;quot;  </description>
     </item>
     
   </channel>

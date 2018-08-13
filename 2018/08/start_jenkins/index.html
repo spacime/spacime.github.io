@@ -7,7 +7,7 @@
 
 <meta property="og:title" content="Start_Jenkins" />
 <meta property="og:description" content="Introduction This is a good tool in build install packages
-This is content after read more" />
+he Old Man and the Sea tells the story of a battle between an aging, experienced fisherman, Santiago, and a large marlin. The story opens with Santiago having gone 84 days without catching a fish, and now being seen as &ldquo;salao&rdquo;, the worst form of unluckiness. He is so unlucky that his young apprentice, Manolin, has been forbidden by his parents to sail with him and has been told instead to fish with successful fishermen." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/2018/08/start_jenkins/" />
 
@@ -30,7 +30,7 @@ This is content after read more" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Start_Jenkins"/>
 <meta name="twitter:description" content="Introduction This is a good tool in build install packages
-This is content after read more"/>
+he Old Man and the Sea tells the story of a battle between an aging, experienced fisherman, Santiago, and a large marlin. The story opens with Santiago having gone 84 days without catching a fish, and now being seen as &ldquo;salao&rdquo;, the worst form of unluckiness. He is so unlucky that his young apprentice, Manolin, has been forbidden by his parents to sail with him and has been told instead to fish with successful fishermen."/>
 
 
 
@@ -86,28 +86,62 @@ This is content after read more"/>
                     
                 </li>
                 
-            </ul>
-            
-            <ul class="navbar-nav">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Language
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                        
-                            <a class="dropdown-item" href="/">English</a>
-                        
-                            <a class="dropdown-item" href="/es/">Español</a>
-                        
-                            <a class="dropdown-item" href="/de/">Deutsch</a>
-                        
-                    </div>
+
+                <li class="nav-item active">
+                <a class="nav-link" data-toggle="modal" data-target="#modalSearch">Search <span class="glyphicon glyphicon-search"></span></a>
                 </li>
+                <span class="glyphicon glyphicon-search"></span>
+                <div id="modalSearch" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">×</button>
+                          <h4 class="modal-title">Search Shizhou's Blog</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="aa-input-container" id="aa-input-container">
+    <input type="search" id="aa-search-input" class="aa-input-search" placeholder="Search for titles or URIs..." name="search" autocomplete="off" />
+    <svg class="aa-input-icon" viewBox="654 -372 1664 1664">
+        <path d="M1806,332c0-123.3-43.8-228.8-131.5-316.5C1586.8-72.2,1481.3-116,1358-116s-228.8,43.8-316.5,131.5  C953.8,103.2,910,208.7,910,332s43.8,228.8,131.5,316.5C1129.2,736.2,1234.7,780,1358,780s228.8-43.8,316.5-131.5  C1762.2,560.8,1806,455.3,1806,332z M2318,1164c0,34.7-12.7,64.7-38,90s-55.3,38-90,38c-36,0-66-12.7-90-38l-343-342  c-119.3,82.7-252.3,124-399,124c-95.3,0-186.5-18.5-273.5-55.5s-162-87-225-150s-113-138-150-225S654,427.3,654,332  s18.5-186.5,55.5-273.5s87-162,150-225s138-113,225-150S1262.7-372,1358-372s186.5,18.5,273.5,55.5s162,87,225,150s113,138,150,225  S2062,236.7,2062,332c0,146.7-41.3,279.7-124,399l343,343C2305.7,1098.7,2318,1128.7,2318,1164z" />
+    </svg>
+</div>
+<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/algoliasearch.min.js"></script>
+<script src="https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/autocomplete.min.js"></script>
+<script>
+var client = algoliasearch("SVVDIJBES5", "01506fdf926c513ed5debf8e94f25d57");
+var index = client.initIndex('homepage');
+autocomplete('#aa-search-input',
+{ hint: false}, {
+    source: autocomplete.sources.hits(index, {hitsPerPage: 8}),
+    displayKey: 'name',
+    templates: {
+        suggestion: function(suggestion) {
+            console.log(suggestion);
+            return '<span>' + '<a href="' + suggestion.permalink + '">' +
+            suggestion._highlightResult.title.value + '</a></span>';
+        }
+    }
+});
+</script>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">close</button>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+
             </ul>
             
         </div>
+
+        
     </nav>
 </header>
+
+
+
+
     
 
     
@@ -129,7 +163,7 @@ This is content after read more"/>
         Aug 12, 2018
     
     
-        by <span rel="author">John Doe</span>
+        by <span rel="author">Shizhou</span>
     
 </div>
 
@@ -157,6 +191,16 @@ This is content after read more"/>
 <h2 id="introduction">Introduction</h2>
 
 <p>This is a good tool in build install packages</p>
+
+<p>he Old Man and the Sea tells the story of a battle between an aging, experienced fisherman, Santiago, and a large marlin. The story opens with Santiago having gone 84 days without catching a fish, and now being seen as &ldquo;salao&rdquo;, the worst form of unluckiness. He is so unlucky that his young apprentice, Manolin, has been forbidden by his parents to sail with him and has been told instead to fish with successful fishermen. The boy visits Santiago&rsquo;s shack each night, hauling his fishing gear, preparing food, talking about American baseball and his favorite player, Joe DiMaggio. Santiago tells Manolin that on the next day, he will venture far out into the Gulf Stream, north of Cuba in the Straits of Florida to fish, confident that his unlucky streak is near its end.</p>
+
+<p>On the eighty-fifth day of his unlucky streak, Santiago takes his skiff into the Gulf Stream, sets his lines and, by noon, has his bait taken by a big fish that he is sure is a marlin. Unable to haul in the great marlin, Santiago is instead pulled by the marlin, and two days and nights pass with Santiago holding onto the line. Though wounded by the struggle and in pain, Santiago expresses a compassionate appreciation for his adversary, often referring to him as a brother. He also determines that, because of the fish&rsquo;s great dignity, no one shall deserve to eat the marlin.</p>
+
+<p>On the third day, the fish begins to circle the skiff. Santiago, worn out and almost delirious, uses all his remaining strength to pull the fish onto its side and stab the marlin with a harpoon. Santiago straps the marlin to the side of his skiff and heads home, thinking about the high price the fish will bring him at the market and how many people he will feed.</p>
+
+<p>On his way in to shore, sharks are attracted to the marlin&rsquo;s blood. Santiago kills a great mako shark with his harpoon, but he loses the weapon. He makes a new harpoon by strapping his knife to the end of an oar to help ward off the next line of sharks; five sharks are slain and many others are driven away. But the sharks keep coming, and by nightfall the sharks have almost devoured the marlin&rsquo;s entire carcass, leaving a skeleton consisting mostly of its backbone, its tail and its head. Santiago knows that he is defeated and tells the sharks of how they have killed his dreams. Upon reaching the shore before dawn on the next day, Santiago struggles to his shack, carrying the heavy mast on his shoulder, leaving the fish head and the bones on the shore. Once home, he slumps onto his bed and falls into a deep sleep.</p>
+
+<p>A group of fishermen gather the next day around the boat where the fish&rsquo;s skeleton is still attached. One of the fishermen measures it to be 18 feet (5.5 m) from nose to tail. Pedrico is given the head of the fish, and the other fishermen tell Manolin to tell the old man how sorry they are. Tourists at the nearby café mistakenly take it for a shark. The boy, worried about the old man, cries upon finding him safe asleep and at his injured hands. Manolin brings him newspapers and coffee. When the old man wakes, they promise to fish together once again. Upon his return to sleep, Santiago dreams of his youth—of lions on an African beach.</p>
 
 <!-- more -->
 

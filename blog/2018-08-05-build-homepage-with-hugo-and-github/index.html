@@ -46,7 +46,7 @@
   <meta name="description" content="">
   <meta name="keywords" content="">
 
-  <meta name="author" content="Shizhou Liu">
+  <meta name="author" content="Author&#39;s name">
 
   
   <meta name="generator" content="Hugo 0.46" />
@@ -64,7 +64,7 @@
 <header role="banner"><hgroup>
   
   <h1><a href="/">Shizhou&#39;s Blog</a></h1>
-    <h2>No Good Job!</h2>
+    <h2>Subtitle appears under website title</h2>
 </hgroup></header>
 
 
@@ -74,11 +74,11 @@
   <select onchange="location = this.value;">
     <option value="">Navigate…</option>
       
-        <option value="/">» Homepage</option>
+        <option value="/">» Blog</option>
       
-        <option value="/categories/">» Categories</option>
+        <option value="https://www.google.com/">» Google</option>
       
-        <option value="/about/">» About Me</option>
+        <option value="https://www.github.com/parsiya/hugo-octopress">» This theme on Github</option>
       
 
   </select>
@@ -89,15 +89,15 @@
   
   
     
-      <li><a href="/" title="Homepage">Homepage</a></li>
+      <li><a href="/" title="Blog">Blog</a></li>
     
   
     
-      <li><a href="/categories/" title="Categories" >Categories</a></li>
+      <li><a href="https://www.google.com/" title="Google"  target="_blank" >Google</a></li>
     
   
     
-      <li><a href="/about/" title="About Me" >About Me</a></li>
+      <li><a href="https://www.github.com/parsiya/hugo-octopress" title="This theme on Github"  target="_blank" >This theme on Github</a></li>
     
   
   <li>
@@ -108,6 +108,10 @@
 
 
 <ul class="subscription">
+  
+    
+        <a href="/index.xml" target="_blank" type="application/rss+xml" title="RSS"><i class="fa fa-rss-square fa-lg"></i></a>
+    
   
 
 </ul>
@@ -209,7 +213,7 @@ autocomplete('#aa-search-input',
 
 <footer>
   <p class="meta">
-    <span class="byline author vcard">Posted by <span class="fn">Shizhou Liu</span></span>
+    <span class="byline author vcard">Posted by <span class="fn">Author&#39;s name</span></span>
     
     <time>Aug 5, 2018</time>
     
@@ -239,6 +243,10 @@ autocomplete('#aa-search-input',
 
 
 
+
+
+
+
 (function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://https-spacime-github-io.disqus.com/embed.js';
@@ -259,8 +267,18 @@ s.setAttribute('data-timestamp', +new Date());
   <section class="first odd">
 
     
+      <h1>Sidebar Header</h1>
+    
 
     <p>
+      
+        Here&rsquo;s a <a href="https://www.google.com" target="_blank">link to google</a>
+  </br>
+  Second line
+  </br>
+  Third line
+  This line has two spaces in the end to create a new line using markdown
+  Forth line
       
     </p>
   </section>
@@ -270,14 +288,14 @@ s.setAttribute('data-timestamp', +new Date());
   
   <ul class="sidebar-nav">
     <li class="sidebar-nav-item">
-      <a target="_blank" href="https://github.com/spacime" title="https://github.com/spacime"><i class="fa fa-github fa-3x"></i></a>
+      <a target="_blank" href="https://github.com/parsiya/" title="https://github.com/parsiya/"><i class="fa fa-github fa-3x"></i></a>
+      <a target="_blank" href="https://bitbucket.org/parsiya/" title="https://bitbucket.org/parsiya/"><i class="fa fa-bitbucket fa-3x"></i></a>
+      
+      <a target="_blank" href="https://twitter.com/cryptogangsta/" title="https://twitter.com/cryptogangsta/"><i class="fa fa-twitter fa-3x"></i></a>
+      
+        <a target="_blank" href="https://keybase.io/parsiya/" title="https://keybase.io/parsiya/"><i class="fa fa-keybase fa-3x"></i></a> 
       
       
-      
-      
-         
-      
-      <a target="_blank" href="https://www.linkedin.com/in/liushizhou/" title="https://www.linkedin.com/in/liushizhou/"><i class="fa fa-linkedin fa-3x"></i></a>
       
       
       
@@ -293,6 +311,27 @@ s.setAttribute('data-timestamp', +new Date());
   
 
   
+    
+      <section class="odd">
+        
+          <h1>Sidebar Links</h1>
+        
+        
+          <li>
+            <a href="/categories/hugo/" title="Hugo" >Hugo</a>
+          </li>
+        
+          <li>
+            <a href="/" title="Homepage" >Homepage</a>
+          </li>
+        
+          <li>
+            <a href="https://www.google.com" title="Google" >Google</a>
+          </li>
+        
+      </section>
+    
+  
 
   
   
@@ -302,6 +341,24 @@ s.setAttribute('data-timestamp', +new Date());
         <h1>Recent Posts</h1>
         <ul id="recent_posts">
           
+          
+            
+              <li class="post">
+                <a href="/blog/2018-08-12-test_search/">Test_search</a>
+              </li>
+            
+          
+            
+              <li class="post">
+                <a href="/blog/2018-08-12-start_jenkins/">Start_Jenkins</a>
+              </li>
+            
+          
+            
+              <li class="post">
+                <a href="/blog/2018-08-07-add-search-to-hugo/">Add Search to Hugo</a>
+              </li>
+            
           
             
               <li class="post">
@@ -315,14 +372,6 @@ s.setAttribute('data-timestamp', +new Date());
               </li>
             
           
-            
-              <li class="post">
-                <a href="/blog/2018-08-05-git-usage/">Git Usage</a>
-              </li>
-            
-          
-            
-          
         </ul>
       </section>
     
@@ -333,7 +382,7 @@ s.setAttribute('data-timestamp', +new Date());
 </div>
 
 <footer role="contentinfo">
-  <p>Copyright &copy; 2018 Shizhou Liu - <a href="/license/">License</a> -
+  <p>Copyright &copy; 2018 Author&#39;s name - <a href="/license/">License</a> -
   <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
 </p>
 
@@ -343,13 +392,6 @@ s.setAttribute('data-timestamp', +new Date());
 
 
 
-
-<script>
-  var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-  s.parentNode.insertBefore(g,s)}(document,'script'));
-</script>
 
 </body>
 </html>

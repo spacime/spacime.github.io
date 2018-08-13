@@ -6,36 +6,53 @@
     <description>Recent content on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 11:41:53 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 20:30:09 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Test_search</title>
+      <link>/blog/2018-08-12-test_search/</link>
+      <pubDate>Sun, 12 Aug 2018 20:30:09 -0700</pubDate>
+      
+      <guid>/blog/2018-08-12-test_search/</guid>
+      <description>&lt;p&gt;Here test the search function of the website, search is very import for a website. So I have to put the search function into the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Start_Jenkins</title>
-      <link>/2018/08/start_jenkins/</link>
+      <link>/blog/2018-08-12-start_jenkins/</link>
       <pubDate>Sun, 12 Aug 2018 11:41:53 -0700</pubDate>
       
-      <guid>/2018/08/start_jenkins/</guid>
-      <description>Introduction This is a good tool in build install packages
-This is content after read more</description>
+      <guid>/blog/2018-08-12-start_jenkins/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This is a good tool in build install packages&lt;/p&gt;
+
+&lt;p&gt;he Old Man and the Sea tells the story of a battle between an aging, experienced fisherman, Santiago, and a large marlin. The story opens with Santiago having gone 84 days without catching a fish, and now being seen as &amp;ldquo;salao&amp;rdquo;, the worst form of unluckiness. He is so unlucky that his young apprentice, Manolin, has been forbidden by his parents to sail with him and has been told instead to fish with successful fishermen. The boy visits Santiago&amp;rsquo;s shack each night, hauling his fishing gear, preparing food, talking about American baseball and his favorite player, Joe DiMaggio. Santiago tells Manolin that on the next day, he will venture far out into the Gulf Stream, north of Cuba in the Straits of Florida to fish, confident that his unlucky streak is near its end.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Add Search to Hugo</title>
-      <link>/2018/08/add-search-to-hugo/</link>
+      <link>/blog/2018-08-07-add-search-to-hugo/</link>
       <pubDate>Tue, 07 Aug 2018 22:46:14 -0700</pubDate>
       
-      <guid>/2018/08/add-search-to-hugo/</guid>
-      <description>Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.</description>
+      <guid>/blog/2018-08-07-add-search-to-hugo/</guid>
+      <description> Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.
+print &amp;quot;hello&amp;quot;  </description>
     </item>
     
     <item>
       <title>KBEngine and Unity</title>
-      <link>/2018/08/kbengine-and-unity/</link>
+      <link>/blog/2018-08-07-kbengine-and-unity/</link>
       <pubDate>Tue, 07 Aug 2018 21:39:55 -0700</pubDate>
       
-      <guid>/2018/08/kbengine-and-unity/</guid>
+      <guid>/blog/2018-08-07-kbengine-and-unity/</guid>
       <description>&lt;h2 id=&#34;kbengine&#34;&gt;KBEngine&lt;/h2&gt;
 
 &lt;p&gt;This is a server engine. The most import concept is that each player is seen as a entity. The entity is splict into three parts: client, cell and base. The data could be transferred between these three part. It is obvious to assume&lt;/p&gt;
@@ -60,19 +77,19 @@ This Site I will write technical posts in this blog.</description>
     
     <item>
       <title>Build homepage with Hugo and Github</title>
-      <link>/2018/08/build-homepage-with-hugo-and-github/</link>
+      <link>/blog/2018-08-05-build-homepage-with-hugo-and-github/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>/2018/08/build-homepage-with-hugo-and-github/</guid>
+      <guid>/blog/2018-08-05-build-homepage-with-hugo-and-github/</guid>
       <description>Why Homepage? I have build website lots of times, but I did&amp;rsquo;t insist on it.</description>
     </item>
     
     <item>
       <title>Git Usage</title>
-      <link>/2018/08/git-usage/</link>
+      <link>/blog/2018-08-05-git-usage/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>/2018/08/git-usage/</guid>
+      <guid>/blog/2018-08-05-git-usage/</guid>
       <description>SourceTree SourceTree is a very good tool. It provides an interface for diff and merge in git. It is also eazy to show the branch in the game.
 Basic command I have to understand the basic command so that when we click the button, we could know what happend behand it.</description>
     </item>
