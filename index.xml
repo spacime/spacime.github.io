@@ -6,33 +6,10 @@
     <description>Recent content on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 22:05:16 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 11:41:53 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test Page</title>
-      <link>/blog/2018-08-12-test-page/</link>
-      <pubDate>Sun, 12 Aug 2018 22:05:16 -0700</pubDate>
-      
-      <guid>/blog/2018-08-12-test-page/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;I want to see whether exict page split in this theme
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test Search</title>
-      <link>/blog/2018-08-12-test-search/</link>
-      <pubDate>Sun, 12 Aug 2018 20:30:09 -0700</pubDate>
-      
-      <guid>/blog/2018-08-12-test-search/</guid>
-      <description>&lt;p&gt;Here test the search function of the website, search is very import for a website. So I have to put the search function into the website.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Start_Jenkins</title>
@@ -40,13 +17,7 @@
       <pubDate>Sun, 12 Aug 2018 11:41:53 -0700</pubDate>
       
       <guid>/blog/2018-08-12-start_jenkins/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;This is a good tool in build install packages&lt;/p&gt;
-
-&lt;p&gt;he Old Man and the Sea tells the story of a battle between an aging, experienced fisherman, Santiago, and a large marlin. The story opens with Santiago having gone 84 days without catching a fish, and now being seen as &amp;ldquo;salao&amp;rdquo;, the worst form of unluckiness. He is so unlucky that his young apprentice, Manolin, has been forbidden by his parents to sail with him and has been told instead to fish with successful fishermen. The boy visits Santiago&amp;rsquo;s shack each night, hauling his fishing gear, preparing food, talking about American baseball and his favorite player, Joe DiMaggio. Santiago tells Manolin that on the next day, he will venture far out into the Gulf Stream, north of Cuba in the Straits of Florida to fish, confident that his unlucky streak is near its end.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>Introduction 1 2  s = &amp;#34;Python syntax highlighting&amp;#34; print s   Why Jenkins Jenkins is a very useful tool to make the process automatic</description>
     </item>
     
     <item>
@@ -56,7 +27,7 @@
       
       <guid>/blog/2018-08-07-add-search-to-hugo/</guid>
       <description> Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.
-print &amp;quot;hello&amp;quot;  </description>
+1  print &amp;#34;hello&amp;#34;  </description>
     </item>
     
     <item>
@@ -65,15 +36,8 @@ print &amp;quot;hello&amp;quot;  </description>
       <pubDate>Tue, 07 Aug 2018 21:39:55 -0700</pubDate>
       
       <guid>/blog/2018-08-07-kbengine-and-unity/</guid>
-      <description>&lt;h2 id=&#34;kbengine&#34;&gt;KBEngine&lt;/h2&gt;
-
-&lt;p&gt;This is a server engine. The most import concept is that each player is seen as a entity. The entity is splict into three parts: client, cell and base. The data could be transferred between these three part. It is obvious to assume&lt;/p&gt;
-
-&lt;h2 id=&#34;unity&#34;&gt;Unity&lt;/h2&gt;
-
-&lt;p&gt;Unity is a client engine. It will create scene and UI for game. We put the connection logic between players into KBEngine.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>KBEngine This is a server engine. The most import concept is that each player is seen as a entity. The entity is splict into three parts: client, cell and base. The data could be transferred between these three part. It is obvious to assume
+Unity Unity is a client engine. It will create scene and UI for game. We put the connection logic between players into KBEngine.</description>
     </item>
     
     <item>
