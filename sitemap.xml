@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2018-08-12-test_search/</loc>
+    <loc>/blog/2018-08-12-test-page/</loc>
+    <lastmod>2018-08-12T22:05:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-08-12-test-search/</loc>
     <lastmod>2018-08-12T20:30:09-07:00</lastmod>
   </url>
   
@@ -56,13 +61,13 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-12T20:30:09-07:00</lastmod>
+    <lastmod>2018-08-12T22:05:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-12T20:30:09-07:00</lastmod>
+    <lastmod>2018-08-12T22:05:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   

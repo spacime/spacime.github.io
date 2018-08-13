@@ -6,17 +6,29 @@
     <description>Recent content on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 20:30:09 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 22:05:16 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test_search</title>
-      <link>/blog/2018-08-12-test_search/</link>
+      <title>Test Page</title>
+      <link>/blog/2018-08-12-test-page/</link>
+      <pubDate>Sun, 12 Aug 2018 22:05:16 -0700</pubDate>
+      
+      <guid>/blog/2018-08-12-test-page/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I want to see whether exict page split in this theme
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Search</title>
+      <link>/blog/2018-08-12-test-search/</link>
       <pubDate>Sun, 12 Aug 2018 20:30:09 -0700</pubDate>
       
-      <guid>/blog/2018-08-12-test_search/</guid>
+      <guid>/blog/2018-08-12-test-search/</guid>
       <description>&lt;p&gt;Here test the search function of the website, search is very import for a website. So I have to put the search function into the website.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
