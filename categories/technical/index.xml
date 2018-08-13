@@ -6,17 +6,26 @@
     <description>Recent content in Technical on Shizhou&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 16:38:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 22:46:14 -0700</lastBuildDate>
     
 	<atom:link href="/categories/technical/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Add Search to Hugo</title>
+      <link>/2018/08/add-search-to-hugo/</link>
+      <pubDate>Tue, 07 Aug 2018 22:46:14 -0700</pubDate>
+      
+      <guid>/2018/08/add-search-to-hugo/</guid>
+      <description>Search I use the commercial search function, which is easy to make it realized. Add search function is very useful, beacuse user in the internet has develop the habit of searching in the website. And it is also a good way to attract user stay on the website for long time.</description>
+    </item>
+    
+    <item>
       <title>Git Usage</title>
-      <link>/blog/2018-08-05-git-usage/</link>
+      <link>/2018/08/git-usage/</link>
       <pubDate>Sun, 05 Aug 2018 16:38:31 -0700</pubDate>
       
-      <guid>/blog/2018-08-05-git-usage/</guid>
+      <guid>/2018/08/git-usage/</guid>
       <description>SourceTree SourceTree is a very good tool. It provides an interface for diff and merge in git. It is also eazy to show the branch in the game.
 Basic command I have to understand the basic command so that when we click the button, we could know what happend behand it.</description>
     </item>

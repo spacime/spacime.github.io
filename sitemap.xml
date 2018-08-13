@@ -1,53 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/blog/2018-08-07-kbengine-and-unity/</loc>
-    <lastmod>2018-08-07T21:39:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-08-05T17:38:31-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018-08-05-build-homepage-with-hugo-and-github/</loc>
-    <lastmod>2018-08-05T16:38:31-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018-08-05-git-usage/</loc>
-    <lastmod>2018-08-05T16:38:31-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-08-07T21:39:55-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-08-07T21:39:55-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/technical/</loc>
-    <lastmod>2018-08-05T16:38:31-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-08-12T11:41:53-07:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/de/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
